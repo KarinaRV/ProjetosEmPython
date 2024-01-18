@@ -13,7 +13,7 @@ Este repositório abriga uma coleção de projetos de Data Science implementados
 
 4. **Regressão Linear:**
    - [Projeto de Regressão Linear I](https://colab.research.google.com/drive/1JHl4BEOXsxq0vKDZtsSyuZ0J9YF0an0V?usp=sharing)
-   - [Projeto de Regressão Linear II](https://drive.google.com/file/d/168zSLB3H47qBNiA_lU4xe8wnQmFJFJnf/view?usp=sharing)
+   - [Projeto de Regressão Linear II](https://colab.research.google.com/drive/1MkeR_CbJBavsBrMNIsABvTVxJlXnTp9a?usp=sharing)
 
 5. **Web Scraping em Python:**
    - [Projeto de Web Scraping](https://colab.research.google.com/drive/1f04crceABqgMU36VLr4vQXnFYn02v_ll?usp=sharing)
@@ -22,10 +22,10 @@ Este repositório abriga uma coleção de projetos de Data Science implementados
    - [Projeto de Análise da Covid-19](https://colab.research.google.com/drive/15j-Afivmp7yUHWwcgWYsXr3_QxUpEsbr?usp=sharing)
 
 7. **Árvore de decisão**
-   - [Árvore de decisão](https://drive.google.com/file/d/1eJmp9sgcPk3h4QUheem-poHRH7PV0uU4/view?usp=sharing)
+   - [Árvore de decisão](https://colab.research.google.com/drive/1JhhMiz1I2xhfTMwifhnGbVPL8r6nhPF7?usp=sharing)
  
 8. **PCA (Principal Component Analysis)**
-   - [PCA (Principal Component Analysis)](https://drive.google.com/file/d/1ZSbSta364mERccXjjFHUiGX7u0bKIncG/view?usp=sharing)
+   - [PCA (Principal Component Analysis)](https://colab.research.google.com/drive/1tlv8AOXEnh-YxCAzOTx0lfuYkZfhQC17?usp=sharing)
 
      
     
