@@ -1,25 +1,23 @@
-# Análise de Dados e Modelo k-NN em Python
+# Projetos de Data Science em Python 🚀
 
-Este repositório contém um código que realiza uma análise abrangente de dados de vinhos. Utiliza as bibliotecas Pandas, Seaborn, Matplotlib e Scikit-learn para:
+Este repositório abriga uma coleção de projetos de Data Science implementados em Python, utilizando o ambiente Colab do Google. Cada projeto oferece uma oportunidade única de explorar técnicas e conceitos específicos. Confira abaixo:
 
-## 1. Preparação dos Dados:
-   - Leitura e renomeação de colunas do arquivo 'wine.data'.
-   - Normalização dos dados usando o StandardScaler.
-   - Divisão dos dados em conjuntos de treino e teste.
+1. **K-NN (K-Nearest Neighbors):**
+   - [Projeto K-NN](https://colab.research.google.com/drive/100Nn1aHv8WD15yDegeHHsl5H8-pTId0M?usp=sharing)
 
-## 2. Aplicação do Modelo k-NN:
-   - Treinamento do modelo k-NN com diferentes valores de k.
-   - Avaliação do desempenho usando métricas como precisão, recall e matriz de confusão.
+2. **Visualização de Gráficos em Python:**
+   - [Projeto de Gráficos](https://colab.research.google.com/drive/1tCkyGdeNInBerWzhW5lP5Q2fDMYlUkmu?usp=sharing)
 
-## 3. Análise Exploratória de Dados:
-   - Exploração estatística, correlações e visualizações como heatmap e pairplot.
+3. **Naive Bayes Classifier:**
+   - [Projeto Naive Bayes](https://colab.research.google.com/drive/15leLWbuVNiCLkMEmI-tyEn_dsP45ZRU-?usp=sharing)
 
-## 4. Visualização de Dados:
-   - Criação de gráficos com Seaborn e Matplotlib, incluindo um gráfico de distribuição e pairplot para análise multivariada.
+4. **Regressão Linear:**
+   - [Projeto de Regressão Linear](https://colab.research.google.com/drive/1JHl4BEOXsxq0vKDZtsSyuZ0J9YF0an0V?usp=sharing)
 
-## 5. Conclusões e Insights:
-   - Treinamento e avaliação detalhada do modelo k-NN, incluindo estatísticas descritivas e visualizações. Certifique-se de instalar as dependências para uma execução adequada.
+5. **Web Scraping em Python:**
+   - [Projeto de Web Scraping](https://colab.research.google.com/drive/1f04crceABqgMU36VLr4vQXnFYn02v_ll?usp=sharing)
 
-Mais informações: https://colab.research.google.com/drive/100Nn1aHv8WD15yDegeHHsl5H8-pTId0M?usp=sharing
+6. **Análise da Covid-19:**
+   - [Projeto de Análise da Covid-19](https://colab.research.google.com/drive/15j-Afivmp7yUHWwcgWYsXr3_QxUpEsbr?usp=sharing)
 
-Explore e aprimore suas habilidades em análise de dados e aprendizado de máquina! 🚀📊
+Cada link direciona para um notebook interativo no Google Colab, proporcionando uma experiência prática. Explore, aprenda e aprimore suas habilidades em Data Science! 📊🔍
